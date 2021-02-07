@@ -309,7 +309,7 @@ export default (() => {
 				rawKey={"601fa324f35ace056b02a713"}
 			/>
 			<link
-				href={"https://fontlibrary.org/face/gagliostro\" type=\"text/css"}
+				href={"https://fontlibrary.org/face/gagliostro\" "}
 				rel={"stylesheet"}
 				sizes={"30px"}
 				media={"screen"}

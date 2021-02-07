@@ -82,7 +82,7 @@ export default (() => {
 					<Text color="--lightD2" letter-spacing="1px" text-transform="uppercase" margin="0">
 						Excellence in everything
 					</Text>
-					<Text as="h1" md-font="--headline2" margin="10px 0" font="СagliostroRegular">
+					<Text as="h1" md-font="--headline2" margin="10px 0" font="1em ">
 						Striving for perfection in everything we do. Unparalleled service for everyone.
 					</Text>
 				</StackItem>
@@ -309,7 +309,7 @@ export default (() => {
 				rawKey={"601fa324f35ace056b02a713"}
 			/>
 			<link
-				href={"https://fontlibrary.org/face/gagliostro\" "}
+				href={"https://fontlibrary.org/face/gagliostro "}
 				rel={"stylesheet"}
 				sizes={"30px"}
 				media={"screen"}

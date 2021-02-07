@@ -82,7 +82,7 @@ export default (() => {
 					<Text color="--lightD2" letter-spacing="1px" text-transform="uppercase" margin="0">
 						Excellence in everything
 					</Text>
-					<Text as="h1" md-font="--headline2" margin="10px 0" font="GagliostroRegular">
+					<Text as="h1" md-font="--headline2" margin="10px 0" font="СagliostroRegular">
 						Striving for perfection in everything we do. Unparalleled service for everyone.
 					</Text>
 				</StackItem>

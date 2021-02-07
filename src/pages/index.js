@@ -53,7 +53,7 @@ export default (() => {
 					</Text>
 				</StackItem>
 				<StackItem width="25%" lg-width="50%" sm-width="100%">
-					<Text margin="0px">
+					<Text margin="0px" font="Lexend Mega">
 						My name is Mary Cornell, born and raised in France.
 					</Text>
 				</StackItem>
@@ -309,9 +309,9 @@ export default (() => {
 				rawKey={"601fa324f35ace056b02a713"}
 			/>
 			<link
-				href={"https://fontlibrary.org/face/gagliostro "}
+				href={"https://fonts.googleapis.com/css2?family=Lexend+Mega&display=swap"}
 				rel={"stylesheet"}
-				sizes={"30px"}
+				sizes={""}
 				media={"screen"}
 				type={"text/css"}
 				place={"endOfHead"}

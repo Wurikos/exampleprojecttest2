@@ -51,9 +51,9 @@ export default (() => {
 				rawKey={"601fa324f35ace056b02a713"}
 			/>
 			<link
-				href={"https://fontlibrary.org/face/gagliostro "}
+				href={"https://fonts.googleapis.com/css2?family=Lexend+Mega&display=swap"}
 				rel={"stylesheet"}
-				sizes={"30px"}
+				sizes={""}
 				media={"screen"}
 				type={"text/css"}
 				place={"endOfHead"}
